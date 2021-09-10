@@ -1,2 +1,2 @@
 # Image-Morph
-A Java GUI application to morph two images into eachother.
+A Java GUI application to upload & morph two images into eachother.
